@@ -12,7 +12,7 @@ class Song
   
   def song.create
      song.all.include?(song)
-    song
+    
   end
 
  
