@@ -46,7 +46,7 @@ class Song
        @@all.sort_by{|x| x.name}
   end
  
- 
+ def self.
  
  
  
